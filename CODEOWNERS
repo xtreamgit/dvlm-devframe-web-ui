@@ -1,0 +1,25 @@
+# CODEOWNERS file for dvlm-devframe-web-ui
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+
+# Default owners for everything in the repo
+* @xtreamgit/platform-team
+
+# Frontend components and UI
+/app/ @xtreamgit/frontend-team
+/components/ @xtreamgit/frontend-team
+/styles/ @xtreamgit/frontend-team
+
+# TypeScript types and interfaces
+/types/ @xtreamgit/platform-team
+
+# Services and API integration
+/services/ @xtreamgit/platform-team
+
+# Configuration files
+*.json @xtreamgit/platform-team
+*.config.js @xtreamgit/platform-team
+*.config.ts @xtreamgit/platform-team
+
+# Documentation
+*.md @xtreamgit/documentation-team

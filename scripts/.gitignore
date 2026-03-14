@@ -1,0 +1,15 @@
+# Daily summaries (keep templates, ignore generated files)
+daily-summary/*.md
+!daily-summary/template.md
+
+# Logs
+*.log
+cron.log
+cron.error.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
