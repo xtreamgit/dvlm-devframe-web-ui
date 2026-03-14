@@ -1,5 +1,6 @@
 # Contributing to dvlm-devframe-web-ui
 
+# Business Source License (BSL)
 Thank you for your interest in contributing to the Develom AI Development Framework Web UI!
 
 ## Getting Started
@@ -137,4 +138,4 @@ Contact the platform team or open an issue for discussion.
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the MIT License.
+By contributing, you agree that your contributions will be licensed under the Business Source License (BSL).
